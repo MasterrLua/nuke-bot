@@ -1,6 +1,6 @@
 First step create a bot on https://discord.com/developers/applications and name it whatever u want and then invite it to ur server if u dont know how to do it watch youtube tutorials
 
-2step go to the folder and find Nuke text.txt and now copy your bot token and put it in there it says YOUR_TOKEN and now change the Spam message u find it under YOUR_TOKEN. And now change YOUR_USERNAME_AND_TAG to ur tag example my tag is VolvoRaggarN#4494 so i put in my name
+2step go to the folder and find Nuke text.txt and now copy your bot token and put it in there it says YOUR_TOKEN and now change the Spam message u find it under YOUR_TOKEN. And now change YOUR_USERNAME_AND_TAG to ur tag example my tag is MasterLua#6666 so i put in my name
 
 And change this TEXT_OF_SPAMMED_CHANNELS to whatever u want to
 
